@@ -1,0 +1,8 @@
+browser-sync start --server --directory --files "*"
+cd site/
+dir
+
+
+usefull links
+https://jsfiddle.net/
+https://codepen.io/
